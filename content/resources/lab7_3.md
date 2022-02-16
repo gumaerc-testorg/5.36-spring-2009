@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: 'Photo from Lab Session 7: SDS gel apparatus running.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-36-biochemistry-laboratory-spring-2009/1f64962319f37686afdf3eeef187644b_Lab7_3.jpg
+file: /media/courses/5-36-biochemistry-laboratory-spring-2009/1f64962319f37686afdf3eeef187644b_Lab7_3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Lab Session 7: SDS gel apparatus running.'
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 7: SDS gel apparatus running.'
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lab Session 7 Photos
+parent_type: CourseSection
 resourcetype: Image
 title: SDS gel apparatus running
 uid: 1f649623-19f3-7686-afdf-3eeef187644b

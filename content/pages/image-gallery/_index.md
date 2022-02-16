@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: 9c84a233-40cf-834c-b76f-84e114f60a02
 ---
@@ -8,7 +10,7 @@ uid: 9c84a233-40cf-834c-b76f-84e114f60a02
 
 {{< anchor "Lab1" >}}{{< /anchor >}}Lab Session 1 
 --------------------------------------------------
-{{< image-gallery id="9c84a233-40cf-834c-b76f-84e114f60a02_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/5-36-biochemistry-laboratory-spring-2009/" >}}
+{{< image-gallery id="9c84a233-40cf-834c-b76f-84e114f60a02_nanogallery2" baseUrl="/courses/5-36-biochemistry-laboratory-spring-2009/" >}}
 {{< image-gallery-item href="7d0db009332e106481f12dad584a7150_Lab1_1.jpg" data-ngdesc="Photo from Lab Session 1: Preparing to pick a colony of BL21 cells." text="Lab Session 1: Preparing to pick a colony of BL21 cells." >}}
 {{< image-gallery-item href="d2c70632385c4f6a86458da3d63d7b7a_Lab1_2.jpg" data-ngdesc="Photo from Lab Session 1: Inoculating 5 mL culture with BL21 colony." text="Lab Session 1: Inoculating 5 mL culture with BL21 colony." >}}
 {{</ image-gallery >}}

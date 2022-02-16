@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 6d2f04eb-8a5c-c8b9-30f3-ba5006d83d16
 ---
@@ -169,10 +172,10 @@ Lab Session 6 ([PDF]({{< baseurl >}}/resources/ses6))
 {{< tdopen >}}
 Lab7
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Run SDS protein gel. Concentrate protein and quantify final protein concentration
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
  
 {{< tdclose >}}
 {{< tdopen >}}

@@ -1,13 +1,16 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: 9c84a233-40cf-834c-b76f-84e114f60a02
 title: Lab Session 11 Photos
 uid: 32af1f0f-fe8e-ab31-a679-28ef6db4b4dd
 ---
 
 [Lab Session 1]({{< baseurl >}}/pages/image-gallery) | [Lab Session 2]({{< baseurl >}}/pages/image-gallery/lab-session-2-photos) | [Lab Session 3]({{< baseurl >}}/pages/image-gallery/lab-session-3-photos) | [Lab Session 4]({{< baseurl >}}/pages/image-gallery/lab-session-4-photos) | [Lab Session 5]({{< baseurl >}}/pages/image-gallery/lab-session-5-photos) | [Lab Session 6]({{< baseurl >}}/pages/image-gallery/lab-session-6-photos) | [Lab Session 7]({{< baseurl >}}/pages/image-gallery/lab-session-7-photos) | [Lab Session 8]({{< baseurl >}}/pages/image-gallery/lab-session-8-photos) | [Lab Session 9]({{< baseurl >}}/pages/image-gallery/lab-session-9-photos) | [Lab Session 13]({{< baseurl >}}/pages/image-gallery/lab-session-13-photos)
-{{< image-gallery id="32af1f0f-fe8e-ab31-a679-28ef6db4b4dd_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/5-36-biochemistry-laboratory-spring-2009/" >}}
+{{< image-gallery id="32af1f0f-fe8e-ab31-a679-28ef6db4b4dd_nanogallery2" baseUrl="/courses/5-36-biochemistry-laboratory-spring-2009/" >}}
 {{< image-gallery-item href="956313ad7c39f01ce07b948e0eeb82a1_Lab11_1.jpg" data-ngdesc="Photo from Lab Session 11: Cell pellet just removed from microcentrifuge." text="Lab Session 11: Cell pellet just removed from microcentrifuge." >}}
 {{< image-gallery-item href="d4dd8a359a84c38f3da28a4fe953207d_Lab11_2.jpg" data-ngdesc="Photo from Lab Session 11: Resuspended pellet in Buffer P1." text="Lab Session 11: Resuspended pellet in Buffer P1." >}}
 {{< image-gallery-item href="1efc0619168797010e3b8b21bcedd881_Lab11_3.jpg" data-ngdesc="Photo from Lab Session 11: Lysed cells." text="Lab Session 11: Lysed cells." >}}

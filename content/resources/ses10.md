@@ -2,8 +2,13 @@
 content_type: resource
 description: Laboratory assignment to complete a DPN digest, transform storage cells
   with mutant DNA, and pour LB/agar plates.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-36-biochemistry-laboratory-spring-2009/2fd37d8ac5d9fc54fe6fbf4260abb02a_ses10.pdf
+file: /media/courses/5-36-biochemistry-laboratory-spring-2009/2fd37d8ac5d9fc54fe6fbf4260abb02a_ses10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: Lab Session 10
 uid: 2fd37d8a-c5d9-fc54-fe6f-bf4260abb02a
