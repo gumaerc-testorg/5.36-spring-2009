@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d2f04eb-8a5c-c8b9-30f3-ba5006d83d16
 resourcetype: Document
 title: Equipment and Supplies for 5.36 Biochemistry Modules
 uid: 06cc7ba7-0b60-fca2-54c8-bd2f0082b1e7

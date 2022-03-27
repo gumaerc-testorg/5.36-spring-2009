@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e9004ad-aca9-a5be-c48a-2881cf8d082e
 resourcetype: Document
 title: 'Kinase Domains: Structure and Inhibition'
 uid: e35009c0-55d9-806c-6f1f-97ab35af1184

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d2f04eb-8a5c-c8b9-30f3-ba5006d83d16
 resourcetype: Document
 title: Lab Sessions 7 and 8
 uid: 2208de32-227f-d4e7-a8c1-90d08c0e2390

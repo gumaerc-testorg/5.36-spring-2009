@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e9004ad-aca9-a5be-c48a-2881cf8d082e
 resourcetype: Document
 title: Site-directed Mutagenesis and Transformation
 uid: 51263ad8-f3ea-efb3-342a-dc36cb085be2

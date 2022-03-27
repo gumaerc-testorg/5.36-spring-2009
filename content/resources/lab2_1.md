@@ -14,6 +14,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 2 Photos
 parent_type: CourseSection
+parent_uid: d7694667-b4a8-82d1-e3b3-4fc1f36db6dd
 resourcetype: Image
 title: Innoculating 500mL of LB media with BL21 cells that were grown overnight
 uid: 217a2fea-7b00-90d8-f6db-defb3b50473c

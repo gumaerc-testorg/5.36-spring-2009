@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
+parent_uid: 9c84a233-40cf-834c-b76f-84e114f60a02
 resourcetype: Image
 title: Preparing to pick a colony of BL21 cells
 uid: 7d0db009-332e-1064-81f1-2dad584a7150

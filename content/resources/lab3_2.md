@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 3 Photos
 parent_type: CourseSection
+parent_uid: 236d8c45-51c8-b247-2073-f372d2296249
 resourcetype: Image
 title: Example digestion gel
 uid: 80e3d78e-3278-8cde-8f42-24204c10e4d7

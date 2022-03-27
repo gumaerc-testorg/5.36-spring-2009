@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 5 Photos
 parent_type: CourseSection
+parent_uid: b7a8b0f1-1dec-4d87-cab5-0887daf1502f
 resourcetype: Image
 title: Loading the dialysis cassette
 uid: c404d7f2-54c8-c183-ceb0-c27a1032b1ab

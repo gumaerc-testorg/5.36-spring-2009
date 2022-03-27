@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e9004ad-aca9-a5be-c48a-2881cf8d082e
 resourcetype: Document
 title: URIECA Biochemistry
 uid: 8756fb13-7b00-9a32-2f6b-8bc2dd9aabcc

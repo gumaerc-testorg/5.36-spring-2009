@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d2f04eb-8a5c-c8b9-30f3-ba5006d83d16
 resourcetype: Document
 title: Lab Session 15 Answer Key
 uid: 33d36629-a5c7-a45b-d2cd-3361aa30fd67

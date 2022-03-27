@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 6 Photos
 parent_type: CourseSection
+parent_uid: 1b689b9b-a4c8-1612-aa8a-b53512144686
 resourcetype: Image
 title: Adding the running gel
 uid: 19ad9229-0ece-b089-e582-a126db8e0adc

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 4 Photos
 parent_type: CourseSection
+parent_uid: 1a2efa65-cd1d-a127-dc3b-1ad81dad524d
 resourcetype: Image
 title: Nickel affinity column setup
 uid: b74d7ccd-d133-75b1-0fa2-0759eac76559

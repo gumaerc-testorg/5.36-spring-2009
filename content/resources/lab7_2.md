@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 7 Photos
 parent_type: CourseSection
+parent_uid: bc2e1cc3-2a73-3e3f-458b-d34bc036542e
 resourcetype: Image
 title: SDS gel apparatus ready to run
 uid: 6859e857-598d-68a5-b04c-e254758559d4

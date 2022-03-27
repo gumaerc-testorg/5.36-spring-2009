@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e9004ad-aca9-a5be-c48a-2881cf8d082e
 resourcetype: Document
 title: "Af\uFB01nity Tags for Protein Puri\uFB01cation "
 uid: c1e45550-9024-05c3-2ca5-11caa353e3c1

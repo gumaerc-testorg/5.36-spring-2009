@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 7 Photos
 parent_type: CourseSection
+parent_uid: bc2e1cc3-2a73-3e3f-458b-d34bc036542e
 resourcetype: Image
 title: Final SDS gel
 uid: 8436a40d-8867-39aa-9fcd-4443bf5890c5

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
+parent_uid: 9c84a233-40cf-834c-b76f-84e114f60a02
 resourcetype: Image
 title: Inoculating 5 mL culture with BL21 colony
 uid: d2c70632-385c-4f6a-8645-8da3d63d7b7a

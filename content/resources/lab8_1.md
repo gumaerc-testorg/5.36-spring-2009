@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 8 Photos
 parent_type: CourseSection
+parent_uid: 98edffbd-4270-2823-7099-d32288849cb5
 resourcetype: Image
 title: Removing dialyzed protein from dialysis cassette
 uid: f57449ea-7105-7761-772c-3b6d689dd487

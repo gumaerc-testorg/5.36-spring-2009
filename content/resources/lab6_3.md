@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 6 Photos
 parent_type: CourseSection
+parent_uid: 1b689b9b-a4c8-1612-aa8a-b53512144686
 resourcetype: Image
 title: Adding tank buffer into SDS gel running apparatus
 uid: be3fde0b-c61a-d892-4cf5-a8f0a25b85b4

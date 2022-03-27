@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 9 Photos
 parent_type: CourseSection
+parent_uid: 28c3fd87-27b4-052a-5428-9732f5beb460
 resourcetype: Image
 title: PCR reactions ready to be run
 uid: 19b55e74-f347-fb63-34a1-b333543c0a1b

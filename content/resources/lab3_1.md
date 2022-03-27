@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 3 Photos
 parent_type: CourseSection
+parent_uid: 236d8c45-51c8-b247-2073-f372d2296249
 resourcetype: Image
 title: Pouring a DNA agarose gel
 uid: ea368006-7743-a2c6-4c58-11443cdf9b42

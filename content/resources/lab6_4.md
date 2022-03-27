@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 6 Photos
 parent_type: CourseSection
+parent_uid: 1b689b9b-a4c8-1612-aa8a-b53512144686
 resourcetype: Image
 title: Boiling SDS samples
 uid: b09ac3ed-6fa0-4b6a-ca9b-d29fd9ac7cb0

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 7 Photos
 parent_type: CourseSection
+parent_uid: bc2e1cc3-2a73-3e3f-458b-d34bc036542e
 resourcetype: Image
 title: Destaining SDS gels on a rocker
 uid: ff4586e9-9d10-b1e2-09b9-7247ec9ee53c

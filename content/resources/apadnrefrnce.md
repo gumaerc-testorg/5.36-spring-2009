@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d2f04eb-8a5c-c8b9-30f3-ba5006d83d16
 resourcetype: Document
 title: Appendix A-D and References
 uid: 762cc8b7-4ec2-57e9-1cd4-4708989f9c0c

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 6d2f04eb-8a5c-c8b9-30f3-ba5006d83d16
 resourcetype: Document
 title: Lab Session 11
 uid: fc7a34cc-2f29-1faa-fc5b-b89868ea4e41

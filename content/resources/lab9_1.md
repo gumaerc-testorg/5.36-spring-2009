@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Lab Session 9 Photos
 parent_type: CourseSection
+parent_uid: 28c3fd87-27b4-052a-5428-9732f5beb460
 resourcetype: Image
 title: Setting up the PCR reaction
 uid: 6dfacc30-16d0-dbb2-bff4-e2a7df13ebb5

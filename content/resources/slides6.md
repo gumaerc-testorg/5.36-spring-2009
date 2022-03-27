@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3e9004ad-aca9-a5be-c48a-2881cf8d082e
 resourcetype: Document
 title: Detecting Kinase Activity in vitro and in vivo
 uid: e78f3df6-0ac1-d765-3fff-f86bcf318ab3
