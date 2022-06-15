@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with notes
+  and slides from selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -35,9 +37,9 @@ Introduction. Kinases in healthy and cancerous cells
 {{< tdopen >}}
 
 
-Lecture 1 handout ([PDF]({{< baseurl >}}/resources/536lecntwtbnk_1))
+Lecture 1 handout ({{% resource_link 7fc111bd-93f2-2a50-e3f6-c2ef1686e9ed "PDF" %}})
 
-Lecture 1 slides ([PDF - 4.7 MB]({{< baseurl >}}/resources/slides1))
+Lecture 1 slides ({{% resource_link 8756fb13-7b00-9a32-2f6b-8bc2dd9aabcc "PDF - 4.7 MB" %}})
 
 
 {{< tdclose >}}
@@ -53,9 +55,9 @@ DNA digestion and PCR
 {{< tdopen >}}
 
 
-Lecture 2 handout ([PDF]({{< baseurl >}}/resources/536lecntwtbnk_2))
+Lecture 2 handout ({{% resource_link 7ef41e23-a7e7-223e-a146-64d2169c1549 "PDF" %}})
 
-Lecture 2 slides ([PDF - 2.3 MB]({{< baseurl >}}/resources/slide2))
+Lecture 2 slides ({{% resource_link 51263ad8-f3ea-efb3-342a-dc36cb085be2 "PDF - 2.3 MB" %}})
 
 
 {{< tdclose >}}
@@ -71,9 +73,9 @@ Affinity tags for protein purification/detection
 {{< tdopen >}}
 
 
-Lecture 3 handout ([PDF]({{< baseurl >}}/resources/536lecntwtbnk_3))
+Lecture 3 handout ({{% resource_link 08d6cb79-d4dc-9478-db62-1088925d6cc5 "PDF" %}})
 
-Lecture 3 slides ([PDF - 1.2 MB]({{< baseurl >}}/resources/slides3))
+Lecture 3 slides ({{% resource_link c1e45550-9024-05c3-2ca5-11caa353e3c1 "PDF - 1.2 MB" %}})
 
 
 {{< tdclose >}}
@@ -89,9 +91,9 @@ Conserved and variable structural features of kinase domains
 {{< tdopen >}}
 
 
-Lecture 4 handout ([PDF]({{< baseurl >}}/resources/536lecntwthbnk_4))
+Lecture 4 handout ({{% resource_link 84c47713-f3f9-7d18-a9f8-fd7c4b819209 "PDF" %}})
 
-Lecture 4 slides ([PDF - 1.8 MB]({{< baseurl >}}/resources/slides4))
+Lecture 4 slides ({{% resource_link e35009c0-55d9-806c-6f1f-97ab35af1184 "PDF - 1.8 MB" %}})
 
 
 {{< tdclose >}}
@@ -105,7 +107,7 @@ Lec 5
 Site directed mutagenesis (Quikchange method)
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture 5 handout ([PDF]({{< baseurl >}}/resources/536lecntwtbnk_5))
+Lecture 5 handout ({{% resource_link 5994c5fc-90dc-f3fc-e415-bd8332ea7633 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,9 +121,9 @@ Detecting kinase activity
 {{< tdopen >}}
 
 
-Lecture 6 handout ([PDF]({{< baseurl >}}/resources/536lecntwthbnk_6))
+Lecture 6 handout ({{% resource_link 19abfbcb-87a0-3375-1602-362f387c0e81 "PDF" %}})
 
-Lecture 6 slides ([PDF - 2.8 MB]({{< baseurl >}}/resources/slides6))
+Lecture 6 slides ({{% resource_link e78f3df6-0ac1-d765-3fff-f86bcf318ab3 "PDF - 2.8 MB" %}})
 
 
 {{< tdclose >}}
