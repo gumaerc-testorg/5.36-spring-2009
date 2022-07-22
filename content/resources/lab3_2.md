@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 3: Example digestion gel.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 3 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Example digestion gel
 uid: 80e3d78e-3278-8cde-8f42-24204c10e4d7
 ---
 Photo from Lab Session 3: Example digestion gel.
-

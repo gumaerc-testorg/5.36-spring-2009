@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 4: Nickel affinity column setup.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 4 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Nickel affinity column setup
 uid: b74d7ccd-d133-75b1-0fa2-0759eac76559
 ---
 Photo from Photo from Lab Session 4: Nickel affinity column setup.
-

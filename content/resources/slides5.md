@@ -6,6 +6,7 @@ file: /courses/5-36-biochemistry-laboratory-spring-2009/f10375f116eeafaa82820335
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Site-directed Mutagenesis and Transformation
 uid: f10375f1-16ee-afaa-8282-0335f7e70671
 ---
 Lecture presentation on DNA cloning, DNA site directed mutagenesis, the Quickchange method, polymerase chain reactions (PCR), and PCR primer design.
-

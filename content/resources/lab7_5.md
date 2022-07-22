@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 7: Sample SDS gel.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 7 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Sample SDS gel
 uid: 380fc76c-655a-d5cd-4e07-28b32cf95aff
 ---
 Photo from Lab Session 7: Sample SDS gel.
-

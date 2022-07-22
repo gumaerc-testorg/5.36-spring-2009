@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 8: Removing dialyzed protein from dialysis cassette.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 8 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Removing dialyzed protein from dialysis cassette
 uid: f57449ea-7105-7761-772c-3b6d689dd487
 ---
 Photo from Lab Session 8: Removing dialyzed protein from dialysis cassette.
-

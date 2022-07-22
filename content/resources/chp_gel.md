@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Final SDS Gel
 uid: 6eebafdf-4632-7393-7a2c-71632f356447
 ---
 Photo from a lab assignment on SDS protein gel.
-

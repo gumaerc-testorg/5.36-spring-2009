@@ -6,6 +6,7 @@ file: /courses/5-36-biochemistry-laboratory-spring-2009/2d7c6bb08cb299c3cf1c507f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lab Session 3
 uid: 2d7c6bb0-8cb2-99c3-cf1c-507fbd5e18aa
 ---
 Laboratory assignment to digest isolated DNA to check for the wt Abl insert, run DNA agarose gel, and design primers for an Abl kinase domain mutant.
-

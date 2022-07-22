@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 7: SDS gel apparatus ready to run.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 7 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: SDS gel apparatus ready to run
 uid: 6859e857-598d-68a5-b04c-e254758559d4
 ---
 Photo from Lab Session 7: SDS gel apparatus ready to run.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 5: Loading the dialysis cassette.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 5 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Loading the dialysis cassette
 uid: c404d7f2-54c8-c183-ceb0-c27a1032b1ab
 ---
 Photo from Lab Session 5: Loading the dialysis cassette.
-

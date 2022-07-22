@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 1: Preparing to pick a colony of BL21 cells.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Preparing to pick a colony of BL21 cells
 uid: 7d0db009-332e-1064-81f1-2dad584a7150
 ---
 Photo from Lab Session 1: Preparing to pick a colony of BL21 cells.
-

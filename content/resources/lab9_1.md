@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 9: Setting up the PCR reaction.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 9 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Setting up the PCR reaction
 uid: 6dfacc30-16d0-dbb2-bff4-e2a7df13ebb5
 ---
 Photo from Lab Session 9: Setting up the PCR reaction.
-

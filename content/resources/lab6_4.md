@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 6: Boiling SDS samples.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 6 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Boiling SDS samples
 uid: b09ac3ed-6fa0-4b6a-ca9b-d29fd9ac7cb0
 ---
 Photo from Lab Session 6: Boiling SDS samples.
-

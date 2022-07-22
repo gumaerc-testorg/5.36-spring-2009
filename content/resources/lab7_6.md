@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 7: Final SDS gel.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 7 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Final SDS gel
 uid: 8436a40d-8867-39aa-9fcd-4443bf5890c5
 ---
 Photo from Lab Session 7: Final SDS gel.
-

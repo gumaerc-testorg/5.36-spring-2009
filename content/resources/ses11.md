@@ -6,6 +6,7 @@ file: /courses/5-36-biochemistry-laboratory-spring-2009/fc7a34cc2f291faafc5bb898
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lab Session 11
 uid: fc7a34cc-2f29-1faa-fc5b-b89868ea4e41
 ---
 Laboratory assignment on DNA isolation of mutant plasmid DNA, quantification of DNA concentration, preparation of DNA sequencing samples.
-

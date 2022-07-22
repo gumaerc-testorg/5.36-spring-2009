@@ -6,6 +6,7 @@ file: /courses/5-36-biochemistry-laboratory-spring-2009/ef669c026469d4aab14931cf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lab Session 12
 uid: ef669c02-6469-d4aa-b149-31cfbb39fa12
 ---
 Laboratory assignment to prepare buffers and reagents for the coupled kinase activity assay.
-

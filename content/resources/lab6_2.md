@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 6: Adding the stacking gel.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 6 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Adding the stacking gel
 uid: 5f0d1b0b-eeaa-a88a-3d46-0dc1792b34d0
 ---
 Photo from Lab Session 6: Adding the stacking gel.
-

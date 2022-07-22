@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 9: PCR reactions ready to be run.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 9 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: PCR reactions ready to be run
 uid: 19b55e74-f347-fb63-34a1-b333543c0a1b
 ---
 Photo from Lab Session 9: PCR reactions ready to be run.
-

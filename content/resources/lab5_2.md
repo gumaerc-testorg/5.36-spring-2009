@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 5: Dialyzing proteins.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 5 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Dialyzing proteins
 uid: 7b8b638a-2a15-717d-53c2-246560e8e9c3
 ---
 Photo from Lab Session 5: Dialyzing proteins.
-

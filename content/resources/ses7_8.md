@@ -7,6 +7,7 @@ file: /courses/5-36-biochemistry-laboratory-spring-2009/2208de32227fd4e7a8c190d0
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lab Sessions 7 and 8
 uid: 2208de32-227f-d4e7-a8c1-90d08c0e2390
 ---
 Laboratory assignment to analyze purified H396P Abl(229-511) by SDSPAGE gel electrophoresis and determine the concentration of your protein domain after purification and dialysis.
-

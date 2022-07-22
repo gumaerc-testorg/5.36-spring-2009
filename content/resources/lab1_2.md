@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 1: Inoculating 5 mL culture with BL21 colony.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Inoculating 5 mL culture with BL21 colony
 uid: d2c70632-385c-4f6a-8645-8da3d63d7b7a
 ---
 Photo from Lab Session 1: Inoculating 5 mL culture with BL21 colony.
-

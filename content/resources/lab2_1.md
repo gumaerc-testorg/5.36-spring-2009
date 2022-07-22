@@ -11,6 +11,7 @@ image_metadata:
   image-alt: 'Lab Session 2: Innoculating 500mL of LB media with BL21 cells that were
     grown overnight.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 2 Photos
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: Innoculating 500mL of LB media with BL21 cells that were grown overnight
 uid: 217a2fea-7b00-90d8-f6db-defb3b50473c
 ---
 Photo from Lab Session 2: Innoculating 500mL of LB media with BL21 cells that were grown overnight.
-

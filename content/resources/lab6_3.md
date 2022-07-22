@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Photograph by MIT OpenCourseWare'
   image-alt: 'Lab Session 6: Adding tank buffer into SDS gel running apparatus.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lab Session 6 Photos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Adding tank buffer into SDS gel running apparatus
 uid: be3fde0b-c61a-d892-4cf5-a8f0a25b85b4
 ---
 Photo from Lab Session 6: Adding tank buffer into SDS gel running apparatus.
-
