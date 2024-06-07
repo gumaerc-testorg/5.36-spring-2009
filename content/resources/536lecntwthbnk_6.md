@@ -4,6 +4,7 @@ description: Lecture summary on detecting kinase activity in vitro and in vivo, 
   vitro activity assays (for purified kinases), fluorescent peptide-based probes,
   and in-vivo protein-based probes (ie. FRET).
 file: /courses/5-36-biochemistry-laboratory-spring-2009/19abfbcb87a033751602362f387c0e81_536lecntwthbnk_6.pdf
+file_size: 628272
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

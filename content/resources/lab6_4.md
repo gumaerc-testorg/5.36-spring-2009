@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Photo from Lab Session 6: Boiling SDS samples.'
 file: /courses/5-36-biochemistry-laboratory-spring-2009/b09ac3ed6fa04b6aca9bd29fd9ac7cb0_Lab6_4.jpg
+file_size: 39833
 file_type: image/jpeg
 image_metadata:
   caption: 'Lab Session 6: Boiling SDS samples.'

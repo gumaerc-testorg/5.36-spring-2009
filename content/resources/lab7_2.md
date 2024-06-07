@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Photo from Lab Session 7: SDS gel apparatus ready to run.'
 file: /courses/5-36-biochemistry-laboratory-spring-2009/6859e857598d68a5b04ce254758559d4_Lab7_2.jpg
+file_size: 33360
 file_type: image/jpeg
 image_metadata:
   caption: 'Lab Session 7: SDS gel apparatus ready to run.'

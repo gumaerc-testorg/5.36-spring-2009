@@ -4,6 +4,7 @@ description: "Lecture presentation on detecting kinase activity in vitro and in 
   \ in vitro activity assays (for puri\uFB01ed kinases), fluorescent peptide-based\
   \ probes, in-vivo protein probes (FRET)."
 file: /courses/5-36-biochemistry-laboratory-spring-2009/e78f3df60ac1d7653ffff86bcf318ab3_Slides6.pdf
+file_size: 2818866
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

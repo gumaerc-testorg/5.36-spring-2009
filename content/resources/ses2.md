@@ -3,6 +3,7 @@ content_type: resource
 description: Laboratory assignment to use a Qiagen miniprep kit to isolate plasmid
   DNA.
 file: /courses/5-36-biochemistry-laboratory-spring-2009/b184c3d9cf63c6a6a5232d5033699cc5_ses2.pdf
+file_size: 94343
 file_type: application/pdf
 learning_resource_types:
 - Labs

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Photo from Lab Session 5: Dialyzing proteins.'
 file: /courses/5-36-biochemistry-laboratory-spring-2009/7b8b638a2a15717d53c2246560e8e9c3_Lab5_2.jpg
+file_size: 42181
 file_type: image/jpeg
 image_metadata:
   caption: 'Lab Session 5: Dialyzing proteins.'
