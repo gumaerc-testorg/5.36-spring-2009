@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture summary on molecular cloning, ligation, and DNA site-directed
   mutagenesis.
 file: /courses/5-36-biochemistry-laboratory-spring-2009/7ef41e23a7e7223ea14664d2169c1549_536lecntwtbnk_2.pdf
+file_size: 592217
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

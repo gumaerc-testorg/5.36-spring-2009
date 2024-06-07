@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Photo from Lab Session 7: Sample SDS gel.'
 file: /courses/5-36-biochemistry-laboratory-spring-2009/380fc76c655ad5cd4e0728b32cf95aff_Lab7_5.jpg
+file_size: 19812
 file_type: image/jpeg
 image_metadata:
   caption: 'Lab Session 7: Sample SDS gel.'
