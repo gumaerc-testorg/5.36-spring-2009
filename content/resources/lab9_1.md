@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Photo from Lab Session 9: Setting up the PCR reaction.'
 file: /courses/5-36-biochemistry-laboratory-spring-2009/6dfacc3016d0dbb2bff4e2a7df13ebb5_Lab9_1.jpg
+file_size: 36606
 file_type: image/jpeg
 image_metadata:
   caption: 'Lab Session 9: Setting up the PCR reaction.'

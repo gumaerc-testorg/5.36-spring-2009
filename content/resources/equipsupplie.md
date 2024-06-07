@@ -3,6 +3,7 @@ content_type: resource
 description: A list of equipment and supplies used for the biochemistry laboratory
   activities of the course.
 file: /courses/5-36-biochemistry-laboratory-spring-2009/06cc7ba70b60fca254c8bd2f0082b1e7_equipsupplie.pdf
+file_size: 79211
 file_type: application/pdf
 learning_resource_types:
 - Labs

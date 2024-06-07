@@ -3,6 +3,7 @@ content_type: resource
 description: Laboratory assignment to perform site-directed mutagenesis to construct
   the DNA for a mutant Abl kinase domain with a single amino acid substitution.
 file: /courses/5-36-biochemistry-laboratory-spring-2009/b4a2227fa9346a5fc47a1745605266f5_ses9.pdf
+file_size: 80418
 file_type: application/pdf
 learning_resource_types:
 - Labs

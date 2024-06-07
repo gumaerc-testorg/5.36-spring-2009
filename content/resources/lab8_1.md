@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Photo from Lab Session 8: Removing dialyzed protein from dialysis cassette.'
 file: /courses/5-36-biochemistry-laboratory-spring-2009/f57449ea71057761772c3b6d689dd487_Lab8_1.jpg
+file_size: 41118
 file_type: image/jpeg
 image_metadata:
   caption: 'Lab Session 8: Removing dialyzed protein from dialysis cassette.'
