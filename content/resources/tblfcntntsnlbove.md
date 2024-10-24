@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student manual on the laboratory activities of the course.
-file: /courses/5-36-biochemistry-laboratory-spring-2009/ed1101678cde0afe060fc97dc46f0dd9_tblfcntntsnlbove.pdf
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/ed1101678cde0afe060fc97dc46f0dd9_tblfcntntsnlbove.pdf
 file_size: 77616
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on site-directed mutagenesis and transformation, and Quickchange
   mutagenisis.
-file: /courses/5-36-biochemistry-laboratory-spring-2009/5994c5fc90dcf3fce415bd8332ea7633_536lecntwtbnk_5.pdf
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/5994c5fc90dcf3fce415bd8332ea7633_536lecntwtbnk_5.pdf
 file_size: 191638
 file_type: application/pdf
 learning_resource_types:

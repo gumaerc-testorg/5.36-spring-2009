@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a complete crystal structure viewing exercises.
-file: /courses/5-36-biochemistry-laboratory-spring-2009/33d36629a5c7a45bd2cd3361aa30fd67_ses15ans_key.pdf
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/33d36629a5c7a45bd2cd3361aa30fd67_ses15ans_key.pdf
 file_size: 89825
 file_type: application/pdf
 learning_resource_types:
