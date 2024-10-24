@@ -3,7 +3,7 @@ content_type: resource
 description: Laboratory assignment to analyze purified H396P Abl(229-511) by SDSPAGE
   gel electrophoresis and determine the concentration of your protein domain after
   purification and dialysis.
-file: /courses/5-36-biochemistry-laboratory-spring-2009/2208de32227fd4e7a8c190d08c0e2390_ses7_8.pdf
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/2208de32227fd4e7a8c190d08c0e2390_ses7_8.pdf
 file_size: 35289
 file_type: application/pdf
 learning_resource_types:

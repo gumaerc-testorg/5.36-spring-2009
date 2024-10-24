@@ -2,7 +2,7 @@
 content_type: resource
 description: Laboratory assignment to grow a starter culture of cells with the H396P
   Abl and Yop-encoding vectors, and with the wild type Abl vector.
-file: /courses/5-36-biochemistry-laboratory-spring-2009/7ffb66455f4083b9a776a5f4365da470_ses1.pdf
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/7ffb66455f4083b9a776a5f4365da470_ses1.pdf
 file_size: 79193
 file_type: application/pdf
 learning_resource_types:

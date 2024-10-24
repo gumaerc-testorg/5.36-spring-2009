@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo from Lab Session 6: Adding the running gel.'
-file: /courses/5-36-biochemistry-laboratory-spring-2009/19ad92290eceb089e582a126db8e0adc_Lab6_1.jpg
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/19ad92290eceb089e582a126db8e0adc_Lab6_1.jpg
 file_size: 33053
 file_type: image/jpeg
 image_metadata:

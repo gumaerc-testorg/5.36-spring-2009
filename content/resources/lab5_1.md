@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo from Lab Session 5: Loading the dialysis cassette.'
-file: /courses/5-36-biochemistry-laboratory-spring-2009/c404d7f254c8c183ceb0c27a1032b1ab_Lab5_1.jpg
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/c404d7f254c8c183ceb0c27a1032b1ab_Lab5_1.jpg
 file_size: 39061
 file_type: image/jpeg
 image_metadata:

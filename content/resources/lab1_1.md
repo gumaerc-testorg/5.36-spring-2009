@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo from Lab Session 1: Preparing to pick a colony of BL21 cells.'
-file: /courses/5-36-biochemistry-laboratory-spring-2009/7d0db009332e106481f12dad584a7150_Lab1_1.jpg
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/7d0db009332e106481f12dad584a7150_Lab1_1.jpg
 file_size: 41369
 file_type: image/jpeg
 image_metadata:
