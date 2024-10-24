@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo from Lab Session 7: SDS gel apparatus running.'
-file: /courses/5-36-biochemistry-laboratory-spring-2009/1f64962319f37686afdf3eeef187644b_Lab7_3.jpg
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/1f64962319f37686afdf3eeef187644b_Lab7_3.jpg
 file_size: 33198
 file_type: image/jpeg
 image_metadata:

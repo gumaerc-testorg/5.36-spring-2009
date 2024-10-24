@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture presentation on protein expression, general strategies for protein\
   \ puri\uFB01cation , af\uFB01nity tags for protein puri\uFB01cation, and SDS gel\
   \ analysis of puri\uFB01ed proteins."
-file: /courses/5-36-biochemistry-laboratory-spring-2009/c1e45550902405c32ca511caa353e3c1_Slides3.pdf
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/c1e45550902405c32ca511caa353e3c1_Slides3.pdf
 file_size: 1250064
 file_type: application/pdf
 learning_resource_types:
