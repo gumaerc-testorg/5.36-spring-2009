@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo from Lab Session 1: Inoculating 5 mL culture with BL21 colony.'
-file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/d2c70632385c4f6a86458da3d63d7b7a_Lab1_2.jpg
+file: /courses/5-36-biochemistry-laboratory-spring-2009/d2c70632385c4f6a86458da3d63d7b7a_Lab1_2.jpg
 file_size: 47132
 file_type: image/jpeg
 image_metadata:

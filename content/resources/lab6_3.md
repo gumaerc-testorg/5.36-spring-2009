@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo from Lab Session 6: Adding tank buffer into SDS gel running apparatus.'
-file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/be3fde0bc61ad8924cf5a8f0a25b85b4_Lab6_3.jpg
+file: /courses/5-36-biochemistry-laboratory-spring-2009/be3fde0bc61ad8924cf5a8f0a25b85b4_Lab6_3.jpg
 file_size: 32693
 file_type: image/jpeg
 image_metadata:

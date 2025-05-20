@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo from Lab Session 7: Destaining SDS gels on a rocker.'
-file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/ff4586e99d10b1e209b97247ec9ee53c_Lab7_4.jpg
+file: /courses/5-36-biochemistry-laboratory-spring-2009/ff4586e99d10b1e209b97247ec9ee53c_Lab7_4.jpg
 file_size: 40914
 file_type: image/jpeg
 image_metadata:

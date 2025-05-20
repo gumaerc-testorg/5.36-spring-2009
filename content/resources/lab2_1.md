@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Photo from Lab Session 2: Innoculating 500mL of LB media with BL21 cells
   that were grown overnight.'
-file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/217a2fea7b0090d8f6dbdefb3b50473c_Lab2_1.jpg
+file: /courses/5-36-biochemistry-laboratory-spring-2009/217a2fea7b0090d8f6dbdefb3b50473c_Lab2_1.jpg
 file_size: 39934
 file_type: image/jpeg
 image_metadata:

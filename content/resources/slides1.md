@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes with a review of kinases and phosphatases, Abl kinase and
   Bcr-Abl, and kinase inhibitors as cancer drug targets.
-file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/8756fb137b009a322f6b8bc2dd9aabcc_Slides1.pdf
+file: /courses/5-36-biochemistry-laboratory-spring-2009/8756fb137b009a322f6b8bc2dd9aabcc_Slides1.pdf
 file_size: 4678637
 file_type: application/pdf
 learning_resource_types:

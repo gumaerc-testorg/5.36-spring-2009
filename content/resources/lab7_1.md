@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo from Lab Session 7: SDS setup with comb.'
-file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/24ce2fb7847871c5e59ac5c04f488246_Lab7_1.jpg
+file: /courses/5-36-biochemistry-laboratory-spring-2009/24ce2fb7847871c5e59ac5c04f488246_Lab7_1.jpg
 file_size: 34206
 file_type: image/jpeg
 image_metadata:
