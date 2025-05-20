@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo from Lab Session 9: PCR reactions ready to be run.'
-file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/19b55e74f347fb6334a1b333543c0a1b_Lab9_2.jpg
+file: /courses/5-36-biochemistry-laboratory-spring-2009/19b55e74f347fb6334a1b333543c0a1b_Lab9_2.jpg
 file_size: 32884
 file_type: image/jpeg
 image_metadata:

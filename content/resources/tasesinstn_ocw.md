@@ -2,7 +2,7 @@
 content_type: resource
 description: Instructions for teaching assistants to prepare the laboratory activities
   of the course.
-file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/14f5cc56b391f8496ac0fb98fdf2f1da_tasesinstn_ocw.pdf
+file: /courses/5-36-biochemistry-laboratory-spring-2009/14f5cc56b391f8496ac0fb98fdf2f1da_tasesinstn_ocw.pdf
 file_size: 134026
 file_type: application/pdf
 learning_resource_types:
