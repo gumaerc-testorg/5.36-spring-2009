@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo from Lab Session 3: Pouring a DNA agarose gel.'
-file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/ea3680067743a2c64c5811443cdf9b42_Lab3_1.jpg
+file: /courses/5-36-biochemistry-laboratory-spring-2009/ea3680067743a2c64c5811443cdf9b42_Lab3_1.jpg
 file_size: 36262
 file_type: image/jpeg
 image_metadata:

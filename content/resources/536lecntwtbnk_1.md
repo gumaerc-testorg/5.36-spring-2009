@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture summary on background chemistry, kinases and phosphatases, Abelson
   kinase (Abl) and Bcr-Abl, and kinase inhibitors as cancer drug targets.
-file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/7fc111bd93f22a50e3f6c2ef1686e9ed_536lecntwtbnk_1.pdf
+file: /courses/5-36-biochemistry-laboratory-spring-2009/7fc111bd93f22a50e3f6c2ef1686e9ed_536lecntwtbnk_1.pdf
 file_size: 741051
 file_type: application/pdf
 learning_resource_types:

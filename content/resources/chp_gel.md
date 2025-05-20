@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo from a lab assignment on SDS protein gel.
-file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/6eebafdf463273937a2c71632f356447_chp_gel.jpg
+file: /courses/5-36-biochemistry-laboratory-spring-2009/6eebafdf463273937a2c71632f356447_chp_gel.jpg
 file_size: 61694
 file_type: image/jpeg
 image_metadata:

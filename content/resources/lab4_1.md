@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo from Photo from Lab Session 4: Nickel affinity column setup.'
-file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/b74d7ccdd13375b10fa20759eac76559_Lab4_1.jpg
+file: /courses/5-36-biochemistry-laboratory-spring-2009/b74d7ccdd13375b10fa20759eac76559_Lab4_1.jpg
 file_size: 35496
 file_type: image/jpeg
 image_metadata:
