@@ -2,11 +2,11 @@
 content_type: resource
 description: Laboratory assignment to lyse cells, isolate the H396P Abl kinase domain,
   and dialyze protein into TBS.
-file: /courses/5-36-biochemistry-laboratory-spring-2009/b89b520d321be8bb731fd610f26d5830_ses5.pdf
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/b89b520d321be8bb731fd610f26d5830_ses5.pdf
 file_size: 42236
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

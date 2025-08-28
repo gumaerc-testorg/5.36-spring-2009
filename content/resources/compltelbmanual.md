@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Student manual on the laboratory activities of the course.
-file: /courses/5-36-biochemistry-laboratory-spring-2009/6ad4c8617346e8344e5045acd8cce106_compltelbmanual.pdf
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/6ad4c8617346e8344e5045acd8cce106_compltelbmanual.pdf
 file_size: 570271
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

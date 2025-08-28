@@ -3,11 +3,11 @@ content_type: resource
 description: Laboratory assignment to analyze sequencing data from site-directed mutagenesis
   and use the PyMol structure viewing program to view wild type and mutant Abl crystal
   structures, and complete the structure viewing worksheet.
-file: /courses/5-36-biochemistry-laboratory-spring-2009/7e41c7cab24d06110d967ded52e73758_ses15.pdf
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/7e41c7cab24d06110d967ded52e73758_ses15.pdf
 file_size: 124626
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
