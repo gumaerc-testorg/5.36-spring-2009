@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Photo from Lab Session 7: Final SDS gel.'
-file: /courses/5-36-biochemistry-laboratory-spring-2009/8436a40d886739aa9fcd4443bf5890c5_Lab7_6.jpg
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/8436a40d886739aa9fcd4443bf5890c5_Lab7_6.jpg
 file_size: 37415
 file_type: image/jpeg
 image_metadata:
