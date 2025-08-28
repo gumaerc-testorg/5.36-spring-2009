@@ -2,11 +2,11 @@
 content_type: resource
 description: Laboratory assignment to prepare buffers and reagents for the coupled
   kinase activity assay.
-file: /courses/5-36-biochemistry-laboratory-spring-2009/ef669c026469d4aab14931cfbb39fa12_ses12.pdf
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/ef669c026469d4aab14931cfbb39fa12_ses12.pdf
 file_size: 93813
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

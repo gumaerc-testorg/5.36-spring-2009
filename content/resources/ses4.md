@@ -2,11 +2,11 @@
 content_type: resource
 description: Laboratory assignment to prepare protein purification buffers and create
   a BSA standard curve for future protein quantification.
-file: /courses/5-36-biochemistry-laboratory-spring-2009/35b25277d14da77d566d8262f2d2fecb_ses4.pdf
+file: /ol-ocw-studio-app/courses/5-36-biochemistry-laboratory-spring-2009/35b25277d14da77d566d8262f2d2fecb_ses4.pdf
 file_size: 86973
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
